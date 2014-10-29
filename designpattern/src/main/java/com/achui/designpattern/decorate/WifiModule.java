@@ -9,7 +9,7 @@ public class WifiModule extends PadDecorate{
 	@Override
 	public String getDescription() {
 		// TODO Auto-generated method stub
-		return pad.getDescription() + " with WIFI";
+		return pad.getDescription() + " with wifi";
 	}
 
 	@Override
